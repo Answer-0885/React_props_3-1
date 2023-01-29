@@ -1,0 +1,7 @@
+.card-body-stars{
+  display: grid;
+  list-style-type: none;
+  gap: 30px;
+  grid-template-columns: repeat(5, 20px);
+  justify-content: center;
+}
